@@ -38,8 +38,8 @@
   text-underline-offset: 3px;
 }
 
-.link_active{
-  text-decoration: none;  
+.link_active {
+  text-decoration: none;
 }
 
 .address {
@@ -65,9 +65,9 @@
   width: 100%;
   padding: 164px 50px 51px 50px;
   color: white;
+  background-image: url(../images/cover.jpg);
   background-position: center;
   background-size: cover;
-  background-image: url(../images/cover.jpg);
 }
 
 .overlay {
@@ -79,10 +79,10 @@
 
 .cover_title {
   position: relative;
-  line-height: 1.18;
   z-index: 1;
   font-weight: bold;
   font-size: 100px;
+  line-height: 1.18;
   letter-spacing: 30px;
   text-align: left;
   text-transform: uppercase;
@@ -130,9 +130,9 @@
   color: white;
   font-weight: normal;
   font-size: 22px;
+  line-height: 1.05;
   text-transform: uppercase;
   background: transparent;
-  line-height: 1.05;
 }
 
 .lots {
@@ -147,8 +147,8 @@
   color: black;
   font-weight: bold;
   font-size: 40px;
-  text-transform: uppercase;
   line-height: 1.2;
+  text-transform: uppercase;
 }
 
 .lots__card_list {
